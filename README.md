@@ -11,16 +11,16 @@ The website is still currently hosted at https://www.moleteambattle.com.
 
 The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are a few images; if you would like to learn about the context of the competition itself, just access the website or its index page in the repo.
 
-| ![Top of the page](perfect1.png) |
+| ![First website print screen](img\img1.png) |
 | -------------------------------- |
 
-| ![Top of the page](perfect2.png) |
+| ![Second website print screen](perfect2.png) |
 | -------------------------------- |
 
-| ![Top of the page](perfect3.png) |
+| ![Third website print screen](perfect3.png) |
 | -------------------------------- |
 
-| ![Top of the page](perfect4.png) |
+| ![Fourth website print screen](perfect4.png) |
 | -------------------------------- |
 
 Although the website is managed mostly by updating its HTML according to the progression of the competitions, there are a few programmed mechanics in CSS. In order to make the Players' Ratings table look like a bulletin board to be filled with their lists so they can keep track of which players' lists are still missing during that stage in the competition, the following CSS pseudo-element ::before and pseudo-class :empty were used to automatically have the empty ordered lists of the table filled with a couple of hidden and unselectable spaces, as otherwise the table would shrink for not being entirely filled, while also removing the undesired ordered list numbers from them.
