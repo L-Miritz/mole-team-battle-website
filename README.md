@@ -11,7 +11,7 @@ The website is still currently hosted at https://www.moleteambattle.com.
 
 The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are a few images; if you would like to learn about the context of the competition itself, just access the website or its index page in the repo.
 
-![First website print screen](img\img1.png)
+![First website print screen](img-readme\img1.png)
 
 | ![Second website print screen](perfect2.png) |
 | -------------------------------- |
