@@ -9,7 +9,7 @@ This is a one-page website I created in order to host a private gaming competiti
 ## Display
 The website is still currently hosted at https://www.moleteambattle.com.
 
-The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are a few images; if you would like to learn about the context of the competition itself, just access the website or its index page in the repo.
+The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are a few images; if you would like to learn about the context of the competition itself, just access the website or its index page in the repo. In the latter case, the images used on the page are in the img folder.
 
 | ![First website print screen](img-readme/img1.png) |
 | -------------------------------------------------- |
@@ -58,6 +58,8 @@ Once the competition is over, the board competition image with the last game res
 | ----------------------------------------------------------------------------------------- |
 
 As for the storage and sharing of the game replay files, a MEGA cloud drive was used so players can download them by accessing a hyperlink in the website.
+
+## Data
 
 All the media used in the website is stored in the img folder. The img-readme folder can be ignored since it's just where the images of this readme are stored.
 
