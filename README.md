@@ -61,7 +61,7 @@ As for the storage and sharing of the game replay files, a MEGA cloud drive was 
 
 ## Development
 
-As this was made just for a private event, I purposely did not desire this website to be easily found in the internet neither to be an actual "website", which is why stylish CSS and semantic HTML elements were intentionally avoided.
+As this was made just for a private event, I purposely did not desire this website to be easily found in the internet neither to be an actual "website", which is why stylish CSS and semantic HTML elements were intentionally avoided. Furthermore, because it is a one-page website, there was no need to use external CSS.
 
 ## Data
 
