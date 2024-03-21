@@ -9,7 +9,7 @@ This is a one-page website I created in order to host a private gaming competiti
 ## Display
 The website is still currently hosted at https://www.moleteambattle.com.
 
-The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are a few images; if you would like to learn about the context of the competition itself, just access the website or its index page from the repo.
+The website features all its content in a single page, with an indexed menu at the top for easier navigation. As more competitions are hosted, more topics and content can be added with HTML, using the same structure. Below are just a few images; have a look at the website if you would like to learn about the context of the competition itself.
 
 | ![First website print screen](img-readme/img1.png) |
 | -------------------------------------------------- |
